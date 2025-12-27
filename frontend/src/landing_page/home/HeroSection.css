@@ -1,0 +1,20 @@
+.custom-btn {
+ 
+  background-color: #387ED1; /* Bootstrap primary blue */
+  
+  color: white;
+  padding: 10px 30px;
+  font-size:25px;
+  font-weight: 500;
+  
+   border:3px solid #212529; /* added border color */
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* added border-color transition */
+}
+
+.custom-btn:hover {
+    background-color: #212529; /* black */
+    color: white;
+    border-color: #387ED1; 
+}

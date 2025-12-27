@@ -1,0 +1,35 @@
+.second-table,
+.second-table th,
+.second-table td {
+  color: #424242 !important;
+  font-size: 17px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.first-table-2,
+.first-table-2 th,
+.first-table-2 td {
+  color: #424242 !important;
+  font-size: 17px;
+  text-align: center;
+  vertical-align: middle;
+}
+.first-table-1{
+  color: #424242 !important;
+}
+
+
+.badge {
+  animation: moveX 1.5s ease-in-out infinite alternate;
+
+}
+
+@keyframes moveX {
+  0% {
+    transform: translateX(30px); /* Start from right */
+  }
+  100% {
+    transform: translateX(-30px); /* Move to left */
+  }
+}

@@ -1,0 +1,27 @@
+/* HeroSection.css */
+.About_Hero {
+  color: #387ED1;
+  text-decoration: none;
+}
+
+.About_Hero:hover {
+  color: #424242 !important;
+}
+
+
+/* button for bio inside the team  */
+.bio-button {
+  background-color: #424242;
+  color: #fff;
+  border:3px solid #387ED1;
+  border-radius: 18px; /* smooth rounded, not too extreme */
+  padding: 5px 12px;
+  transition: all 0.3s ease;
+}
+
+.bio-button:hover {
+  background-color: #387ED1;
+  border-color: #424242;
+  color: #fff;
+  cursor: pointer;
+}

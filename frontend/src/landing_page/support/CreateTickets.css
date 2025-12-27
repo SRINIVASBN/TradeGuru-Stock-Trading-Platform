@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+}
+
+.main {
+  color: #222222;
+  font-size: 18px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out;
+  display: inline-block;  /* ✅ this is important */
+}
+
+.main:hover {
+  color: #387ED1;
+  transform: scale(1.04);
+}
+
+.sub {
+  color: #387ED1;
+  font-size: 15px;
+  
+  transition: transform 0.1s ease-in-out;
+  display: inline-block;  /* ✅ this is important */
+}
+
+.sub:hover {
+  color: #222222;
+  transform: scale(1.02);
+}

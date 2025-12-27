@@ -1,0 +1,51 @@
+.footer-link {
+  color: #666666;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #387ED1;
+  text-decoration:underline; 
+  font-weight: 600;
+}
+
+
+/* Icon color default */
+.footer-icon {
+  color: #424242;
+  transition: color 0.3s ease,transform 0.3s ease-in-out;
+}
+
+/* Icon hover effect */
+.footer-icon:hover {
+  color: #387ED1;
+  transform:scale(1.2)
+}
+
+
+.footer-bottom {
+  color: #424242 !important;
+   text-decoration: none;
+  transition: color 0.3s ease;
+  
+}
+
+.footer-bottom:hover {
+  color: #387ED1 !important;
+   text-decoration:underline;
+    font-weight: 600;
+}
+
+.footer-div{
+  color: #387ED1 !important;
+   text-decoration: none;
+  transition: color 0.3s ease;
+  
+}
+
+.footer-div:hover {
+  
+  color: #424242 !important;
+   text-decoration:underline;
+   
+}

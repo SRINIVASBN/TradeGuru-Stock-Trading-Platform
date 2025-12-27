@@ -1,0 +1,44 @@
+/* a-1: white without underline */
+.a-1 {
+  color: white;
+  text-decoration: none;
+    display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.a-1:hover {
+  transform: scale(1.05);
+}
+
+/* a-2: white with underline offset */
+.a-2 {
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+    display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.a-2:hover {
+  transform: scale(1.05);
+}
+
+.a-3 {
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  
+}
+
+.hover-pair {
+  display: inline-block;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.hover-pair:hover {
+  transform: scale(1.03);
+}
+
+
+
