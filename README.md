@@ -44,7 +44,7 @@ TradeGuru is a modular stock trading platform built to manage and visualize trad
 
 ---
 
-## ✅ Features
+## ⭐ Features
 
 <table>
 <tr>
@@ -92,12 +92,12 @@ TradeGuru is a modular stock trading platform built to manage and visualize trad
 ## 🎯 Current Outcome
 
 This repository currently contains:
-- ✔ Fully structured backend service with RESTful APIs
-- ✔ Trading models & schemas
-- ✔ React dashboard with Material UI
-- ✔ Separate frontend project
-- ✔ Live stock market API integration
-- ✔ Clean repo (no node_modules / no env pushed)
+-  Fully structured backend service with RESTful APIs
+-  Trading models & schemas
+-  React dashboard with Material UI
+-  Separate frontend project
+-  Live stock market API integration
+-  Clean repo (no node_modules / no env pushed)
 
 ---
 
