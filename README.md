@@ -1,6 +1,8 @@
 # TradeGuru — Stock Trading Platform
 
-A full-stack stock trading platform consisting of a backend API service and two React-based applications — a dashboard interface and a frontend application. The platform manages trading-related data such as holdings, positions, and orders, and provides structured UI modules to visualize them with real-time stock market data.
+## 📖 Abstract
+
+TradeGuru is a modular stock trading platform built to manage and visualize trading-related information. The backend provides secure RESTful APIs and database schemas for orders, holdings, and positions, while the dashboard and frontend React applications handle visual representation and user interaction using Material UI components. The platform integrates with live stock market APIs to fetch real-time trading data. This project is ideal for learning full-stack architecture, RESTful API development, React dashboards, and data handling in trading applications.
 
 ---
 
@@ -33,9 +35,7 @@ A full-stack stock trading platform consisting of a backend API service and two 
 
 ---
 
-## 📖 Abstract
 
-TradeGuru is a modular stock trading platform built to manage and visualize trading-related information. The backend provides secure RESTful APIs and database schemas for orders, holdings, and positions, while the dashboard and frontend React applications handle visual representation and user interaction using Material UI components. The platform integrates with live stock market APIs to fetch real-time trading data. This project is ideal for learning full-stack architecture, RESTful API development, React dashboards, and data handling in trading applications.
 
 ---
 
