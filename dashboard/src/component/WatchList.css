@@ -1,0 +1,88 @@
+
+.watchlist-item{
+  margin-left:-30px;
+  
+ 
+}
+.search {
+  color: #262525ff;
+  
+  border: 2px solid #F56834;
+  border-radius: 15px;
+  padding: 15px 12px;
+  outline: none;
+  transition: background-color 0.1s ease-in-out;
+}
+
+.search:hover {
+  background-color: #dda28d;
+  color: rgb(0, 0, 0); /* text turns white for contrast */
+}
+
+
+
+
+
+.actions {
+  display: flex;
+  gap:13px;
+  align-items: center;
+  margin-right:-50px;
+}
+
+.actions .buy {
+  background-color: #28a745;
+  color: white;
+  border:none;
+  padding: 8px 13px;
+  border-radius:18px;
+  cursor: pointer;.search {
+  color: #262525ff;
+  background-color: #e9a893ff;
+  border: 2px solid #F56834;
+  border-radius: 15px;
+  padding: 6px 12px;
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+.search:hover {
+  background-color: #F56834;
+  color: white; /* text turns white for contrast */
+}
+
+  font-size: 14px;
+}
+
+.actions .sell {
+  background-color: #dc3545;
+  color: white;
+   border:none;
+  padding: 8px 13px;
+  border-radius:18px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.actions .action {
+  background: #f1f1f1;
+  border:#46035c;
+  padding: 5px;
+
+  border-radius:10%;
+  cursor: pointer;
+}
+.actions .action-1 {
+  background: #f1f1f1;
+  border:#46035c;
+  padding-left: 10px;
+  margin-left: -15px;
+
+  border-radius:10%;
+  cursor: pointer;
+}
+
+.actions .icon {
+  font-size:40px;
+  color: #46035c;
+}

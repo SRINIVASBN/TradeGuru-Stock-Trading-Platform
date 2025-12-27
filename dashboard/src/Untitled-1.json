@@ -1,0 +1,991 @@
+{
+  "name": "zeroda project",
+  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project",
+  "type": "directory",
+  "children": [
+    {
+      "name": "backend",
+      "type": "directory",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend",
+      "children": [
+        {
+          "name": "Add_to_Db _&_Display_to_dash_routes",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\Add_to_Db _&_Display_to_dash_routes",
+          "children": [
+            {
+              "name": "holdingsRoute.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\Add_to_Db _&_Display_to_dash_routes\\holdingsRoute.js",
+              "icon": "📄"
+            },
+            {
+              "name": "ordersRoute.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\Add_to_Db _&_Display_to_dash_routes\\ordersRoute.js",
+              "icon": "📄"
+            },
+            {
+              "name": "positionsRoute.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\Add_to_Db _&_Display_to_dash_routes\\positionsRoute.js",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": "model",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\model",
+          "children": [
+            {
+              "name": "HoldingsModel.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\model\\HoldingsModel.js",
+              "icon": "📄"
+            },
+            {
+              "name": "OrdersModel.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\model\\OrdersModel.js",
+              "icon": "📄"
+            },
+            {
+              "name": "PositionsModel.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\model\\PositionsModel.js",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": "schema",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\schema",
+          "children": [
+            {
+              "name": "HoldingSchema.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\schema\\HoldingSchema.js",
+              "icon": "📄"
+            },
+            {
+              "name": "OrdersSchema.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\schema\\OrdersSchema.js",
+              "icon": "📄"
+            },
+            {
+              "name": "PositionsSchema.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\schema\\PositionsSchema.js",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": "package-lock.json",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\package-lock.json",
+          "icon": "📄"
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\package.json",
+          "icon": "📄"
+        },
+        {
+          "name": "server.js",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend\\server.js",
+          "icon": "📄"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "dashboard",
+      "type": "directory",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard",
+      "children": [
+        {
+          "name": "lib",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\lib",
+          "children": [
+            {
+              "name": "utils.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\lib\\utils.js",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": "public",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\public",
+          "children": [
+            {
+              "name": "media",
+              "type": "directory",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\public\\media",
+              "children": [
+                {
+                  "name": "images",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\public\\media\\images",
+                  "children": [
+                    {
+                      "name": "NotFound.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\public\\media\\images\\NotFound.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "logo.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\public\\media\\images\\logo.png",
+                      "icon": "🖼️"
+                    }
+                  ],
+                  "icon": "📁"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "index.html",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\public\\index.html",
+              "icon": "🌐"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": "src",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src",
+          "children": [
+            {
+              "name": "component",
+              "type": "directory",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component",
+              "children": [
+                {
+                  "name": "lib",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\lib",
+                  "children": [
+                    {
+                      "name": "utils.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\lib\\utils.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "nurui",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\nurui",
+                  "children": [
+                    {
+                      "name": "splash-cursor.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\nurui\\splash-cursor.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "Apps.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Apps.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "BuyActionWindow.css",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\BuyActionWindow.css",
+                  "icon": "🎨"
+                },
+                {
+                  "name": "BuyActionWindow.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\BuyActionWindow.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Dashboard.css",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Dashboard.css",
+                  "icon": "🎨"
+                },
+                {
+                  "name": "Dashboard.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Dashboard.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "DoughnutChart.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\DoughnutChart.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Funds.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Funds.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "GeneralContext.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\GeneralContext.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Holdings.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Holdings.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Home.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Home.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Menu.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Menu.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "NotFound.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\NotFound.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Orders.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Orders.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Positions.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Positions.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Summary.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\Summary.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "TopBar.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\TopBar.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "VerticalGraph.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\VerticalGraph.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "WatchList.css",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\WatchList.css",
+                  "icon": "🎨"
+                },
+                {
+                  "name": "WatchList.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\component\\WatchList.js",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "data",
+              "type": "directory",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\data",
+              "children": [
+                {
+                  "name": "data.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\data\\data.js",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "index.css",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\index.css",
+              "icon": "🎨"
+            },
+            {
+              "name": "index.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\src\\index.js",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\.gitignore",
+          "icon": "🚫"
+        },
+        {
+          "name": "package-lock.json",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\package-lock.json",
+          "icon": "📄"
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\dashboard\\package.json",
+          "icon": "📄"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "frontend",
+      "type": "directory",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend",
+      "children": [
+        {
+          "name": "public",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public",
+          "children": [
+            {
+              "name": "media",
+              "type": "directory",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media",
+              "children": [
+                {
+                  "name": "images",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images",
+                  "children": [
+                    {
+                      "name": "Account recovery issues_files",
+                      "type": "directory",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\Account recovery issues_files",
+                      "children": [
+                        {
+                          "name": "conversation-small-ihwakj3d.css",
+                          "type": "file",
+                          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\Account recovery issues_files\\conversation-small-ihwakj3d.css",
+                          "icon": "🎨"
+                        },
+                        {
+                          "name": "e84d2bfe-6424-4e14-ae6e-8a0d0de58ec9.png",
+                          "type": "file",
+                          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\Account recovery issues_files\\e84d2bfe-6424-4e14-ae6e-8a0d0de58ec9.png",
+                          "icon": "🖼️"
+                        },
+                        {
+                          "name": "root-iwtiiy4u.css",
+                          "type": "file",
+                          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\Account recovery issues_files\\root-iwtiiy4u.css",
+                          "icon": "🎨"
+                        }
+                      ],
+                      "icon": "📁"
+                    },
+                    {
+                      "name": "Account recovery issues.html",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\Account recovery issues.html",
+                      "icon": "🌐"
+                    },
+                    {
+                      "name": "NotFound.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\NotFound.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "appstoreBadge.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\appstoreBadge.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "coin.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\coin.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "console.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\console.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "ditto-logo.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\ditto-logo.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "ecosystem.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\ecosystem.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "education.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\education.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "goldenpiLogo.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\goldenpiLogo.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "googlePlayBadge.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\googlePlayBadge.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "homeHero.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\homeHero.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "kite.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\kite.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "kiteconnect.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\kiteconnect.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "kiteconnect.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\kiteconnect.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "largestBroker.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\largestBroker.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "logo.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\logo.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "nithinKamath.jpg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\nithinKamath.jpg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "nnithinKamath.jpg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\nnithinKamath.jpg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "other-trades.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\other-trades.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "pressLogos.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\pressLogos.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "pricing-eq.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\pricing-eq.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "sensibull-logo.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\sensibull-logo.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "signup.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\signup.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "smallcase-logo.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\smallcase-logo.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "streak-logo.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\streak-logo.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "tijori.svg",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\tijori.svg",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "varsity.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\varsity.png",
+                      "icon": "🖼️"
+                    },
+                    {
+                      "name": "zerodhafundhouse.png",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\media\\images\\zerodhafundhouse.png",
+                      "icon": "🖼️"
+                    }
+                  ],
+                  "icon": "📁"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "index.html",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\index.html",
+              "icon": "🌐"
+            },
+            {
+              "name": "robots.txt",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\public\\robots.txt",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": "src",
+          "type": "directory",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src",
+          "children": [
+            {
+              "name": "landing_page",
+              "type": "directory",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page",
+              "children": [
+                {
+                  "name": "about",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\about",
+                  "children": [
+                    {
+                      "name": "AboutPage.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\about\\AboutPage.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "HeroSection.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\about\\HeroSection.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "HeroSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\about\\HeroSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "Team.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\about\\Team.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "Team.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\about\\Team.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "home",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home",
+                  "children": [
+                    {
+                      "name": "Awards.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\Awards.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "Education.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\Education.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "HeroSection.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\HeroSection.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "HeroSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\HeroSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "HomePage.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\HomePage.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "Pricing.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\Pricing.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "Stats.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\Stats.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "Stats.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\home\\Stats.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "pricing",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing",
+                  "children": [
+                    {
+                      "name": "tables",
+                      "type": "directory",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\tables",
+                      "children": [
+                        {
+                          "name": "Commodity.js",
+                          "type": "file",
+                          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\tables\\Commodity.js",
+                          "icon": "📄"
+                        },
+                        {
+                          "name": "Currency.js",
+                          "type": "file",
+                          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\tables\\Currency.js",
+                          "icon": "📄"
+                        },
+                        {
+                          "name": "Equity.js",
+                          "type": "file",
+                          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\tables\\Equity.js",
+                          "icon": "📄"
+                        }
+                      ],
+                      "icon": "📁"
+                    },
+                    {
+                      "name": "Charges.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\Charges.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "Charges.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\Charges.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "HeroSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\HeroSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "PricingPage.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\PricingPage.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "SegmentTabs.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\SegmentTabs.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "SegmentTabs.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\pricing\\SegmentTabs.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "products",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products",
+                  "children": [
+                    {
+                      "name": "HeroSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\HeroSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "LeftSection.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\LeftSection.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "LeftSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\LeftSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "ProductPage.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\ProductPage.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "RightSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\RightSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "Universe.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\Universe.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "Universe.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\products\\Universe.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "signup",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\signup",
+                  "children": [
+                    {
+                      "name": "SignupPage.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\signup\\SignupPage.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "support",
+                  "type": "directory",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\support",
+                  "children": [
+                    {
+                      "name": "CreateTickets.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\support\\CreateTickets.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "CreateTickets.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\support\\CreateTickets.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "HeroSection.css",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\support\\HeroSection.css",
+                      "icon": "🎨"
+                    },
+                    {
+                      "name": "HeroSection.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\support\\HeroSection.js",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "SupportPage.js",
+                      "type": "file",
+                      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\support\\SupportPage.js",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "Footer.css",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\Footer.css",
+                  "icon": "🎨"
+                },
+                {
+                  "name": "Footer.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\Footer.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "Navbar.css",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\Navbar.css",
+                  "icon": "🎨"
+                },
+                {
+                  "name": "Navbar.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\Navbar.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "NotFound.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\NotFound.js",
+                  "icon": "📄"
+                },
+                {
+                  "name": "OpenAccount.js",
+                  "type": "file",
+                  "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\landing_page\\OpenAccount.js",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "index.css",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\index.css",
+              "icon": "🎨"
+            },
+            {
+              "name": "index.js",
+              "type": "file",
+              "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\src\\index.js",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\.gitignore",
+          "icon": "🚫"
+        },
+        {
+          "name": "package-lock.json",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\package-lock.json",
+          "icon": "📄"
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\frontend\\package.json",
+          "icon": "📄"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": ".gitignore",
+      "type": "file",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\.gitignore",
+      "icon": "🚫"
+    },
+    {
+      "name": "Dash Board Zerodha.docx",
+      "type": "file",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\Dash Board Zerodha.docx",
+      "icon": "📄"
+    },
+    {
+      "name": "FrontEnd Zerodha.docx",
+      "type": "file",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\FrontEnd Zerodha.docx",
+      "icon": "📄"
+    },
+    {
+      "name": "backend after dashboard.docx",
+      "type": "file",
+      "path": "c:\\Users\\srini\\OneDrive\\Documents\\PROJECTS\\zeroda project\\backend after dashboard.docx",
+      "icon": "📄"
+    }
+  ],
+  "generated": "2025-08-22T05:13:24.936Z",
+  "generator": "FileTree Pro Extension",
+  "note": "Common build folders, dependencies, and temporary files are automatically excluded.",
+  "showIcons": true
+}

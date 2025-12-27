@@ -1,0 +1,168 @@
+File Tree: zeroda project
+Generated on: 8/22/2025, 10:44:15 AM
+Root path: c:\Users\srini\OneDrive\Documents\PROJECTS\zeroda project
+
+────────────────────────────────────────────────────────────────────────────────
+├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 backend/
+│   ├── 📁 Add_to_Db _&_Display_to_dash_routes/
+│   │   ├── 📄 holdingsRoute.js
+│   │   ├── 📄 ordersRoute.js
+│   │   └── 📄 positionsRoute.js
+│   ├── 📁 model/
+│   │   ├── 📄 HoldingsModel.js
+│   │   ├── 📄 OrdersModel.js
+│   │   └── 📄 PositionsModel.js
+│   ├── 📁 node_modules/ 🚫 (auto-hidden)
+│   ├── 📁 schema/
+│   │   ├── 📄 HoldingSchema.js
+│   │   ├── 📄 OrdersSchema.js
+│   │   └── 📄 PositionsSchema.js
+│   ├── 🔒 .env 🚫 (auto-hidden)
+│   ├── 📄 package-lock.json
+│   ├── 📄 package.json
+│   └── 📄 server.js
+├── 📁 dashboard/
+│   ├── 📁 lib/
+│   │   └── 📄 utils.js
+│   ├── 📁 node_modules/ 🚫 (auto-hidden)
+│   ├── 📁 public/
+│   │   ├── 📁 media/
+│   │   │   └── 📁 images/
+│   │   │       ├── 🖼️ NotFound.png
+│   │   │       └── 🖼️ logo.png
+│   │   └── 🌐 index.html
+│   ├── 📁 src/
+│   │   ├── 📁 component/
+│   │   │   ├── 📁 lib/
+│   │   │   │   └── 📄 utils.js
+│   │   │   ├── 📁 nurui/
+│   │   │   │   └── 📄 splash-cursor.js
+│   │   │   ├── 📄 Apps.js
+│   │   │   ├── 🎨 BuyActionWindow.css
+│   │   │   ├── 📄 BuyActionWindow.js
+│   │   │   ├── 🎨 Dashboard.css
+│   │   │   ├── 📄 Dashboard.js
+│   │   │   ├── 📄 DoughnutChart.js
+│   │   │   ├── 📄 Funds.js
+│   │   │   ├── 📄 GeneralContext.js
+│   │   │   ├── 📄 Holdings.js
+│   │   │   ├── 📄 Home.js
+│   │   │   ├── 📄 Menu.js
+│   │   │   ├── 📄 NotFound.js
+│   │   │   ├── 📄 Orders.js
+│   │   │   ├── 📄 Positions.js
+│   │   │   ├── 📄 Summary.js
+│   │   │   ├── 📄 TopBar.js
+│   │   │   ├── 📄 VerticalGraph.js
+│   │   │   ├── 🎨 WatchList.css
+│   │   │   └── 📄 WatchList.js
+│   │   ├── 📁 data/
+│   │   │   └── 📄 data.js
+│   │   ├── 🎨 index.css
+│   │   └── 📄 index.js
+│   ├── 🚫 .gitignore
+│   ├── 📄 package-lock.json
+│   └── 📄 package.json
+├── 📁 frontend/
+│   ├── 📁 .git/ 🚫 (auto-hidden)
+│   ├── 📁 node_modules/ 🚫 (auto-hidden)
+│   ├── 📁 public/
+│   │   ├── 📁 media/
+│   │   │   └── 📁 images/
+│   │   │       ├── 📁 Account recovery issues_files/
+│   │   │       │   ├── 🎨 conversation-small-ihwakj3d.css
+│   │   │       │   ├── 🖼️ e84d2bfe-6424-4e14-ae6e-8a0d0de58ec9.png
+│   │   │       │   └── 🎨 root-iwtiiy4u.css
+│   │   │       ├── 🌐 Account recovery issues.html
+│   │   │       ├── 🖼️ NotFound.png
+│   │   │       ├── 🖼️ appstoreBadge.svg
+│   │   │       ├── 🖼️ coin.png
+│   │   │       ├── 🖼️ console.png
+│   │   │       ├── 🖼️ ditto-logo.png
+│   │   │       ├── 🖼️ ecosystem.png
+│   │   │       ├── 🖼️ education.svg
+│   │   │       ├── 🖼️ goldenpiLogo.png
+│   │   │       ├── 🖼️ googlePlayBadge.svg
+│   │   │       ├── 🖼️ homeHero.png
+│   │   │       ├── 🖼️ kite.png
+│   │   │       ├── 🖼️ kiteconnect.png
+│   │   │       ├── 🖼️ kiteconnect.svg
+│   │   │       ├── 🖼️ largestBroker.svg
+│   │   │       ├── 🖼️ logo.svg
+│   │   │       ├── 🖼️ nithinKamath.jpg
+│   │   │       ├── 🖼️ nnithinKamath.jpg
+│   │   │       ├── 🖼️ other-trades.svg
+│   │   │       ├── 🖼️ pressLogos.png
+│   │   │       ├── 🖼️ pricing-eq.svg
+│   │   │       ├── 🖼️ sensibull-logo.svg
+│   │   │       ├── 🖼️ signup.png
+│   │   │       ├── 🖼️ smallcase-logo.png
+│   │   │       ├── 🖼️ streak-logo.png
+│   │   │       ├── 🖼️ tijori.svg
+│   │   │       ├── 🖼️ varsity.png
+│   │   │       └── 🖼️ zerodhafundhouse.png
+│   │   ├── 🌐 index.html
+│   │   └── 📄 robots.txt
+│   ├── 📁 src/
+│   │   ├── 📁 landing_page/
+│   │   │   ├── 📁 about/
+│   │   │   │   ├── 📄 AboutPage.js
+│   │   │   │   ├── 🎨 HeroSection.css
+│   │   │   │   ├── 📄 HeroSection.js
+│   │   │   │   ├── 🎨 Team.css
+│   │   │   │   └── 📄 Team.js
+│   │   │   ├── 📁 home/
+│   │   │   │   ├── 📄 Awards.js
+│   │   │   │   ├── 📄 Education.js
+│   │   │   │   ├── 🎨 HeroSection.css
+│   │   │   │   ├── 📄 HeroSection.js
+│   │   │   │   ├── 📄 HomePage.js
+│   │   │   │   ├── 📄 Pricing.js
+│   │   │   │   ├── 🎨 Stats.css
+│   │   │   │   └── 📄 Stats.js
+│   │   │   ├── 📁 pricing/
+│   │   │   │   ├── 📁 tables/
+│   │   │   │   │   ├── 📄 Commodity.js
+│   │   │   │   │   ├── 📄 Currency.js
+│   │   │   │   │   └── 📄 Equity.js
+│   │   │   │   ├── 🎨 Charges.css
+│   │   │   │   ├── 📄 Charges.js
+│   │   │   │   ├── 📄 HeroSection.js
+│   │   │   │   ├── 📄 PricingPage.js
+│   │   │   │   ├── 🎨 SegmentTabs.css
+│   │   │   │   └── 📄 SegmentTabs.js
+│   │   │   ├── 📁 products/
+│   │   │   │   ├── 📄 HeroSection.js
+│   │   │   │   ├── 🎨 LeftSection.css
+│   │   │   │   ├── 📄 LeftSection.js
+│   │   │   │   ├── 📄 ProductPage.js
+│   │   │   │   ├── 📄 RightSection.js
+│   │   │   │   ├── 🎨 Universe.css
+│   │   │   │   └── 📄 Universe.js
+│   │   │   ├── 📁 signup/
+│   │   │   │   └── 📄 SignupPage.js
+│   │   │   ├── 📁 support/
+│   │   │   │   ├── 🎨 CreateTickets.css
+│   │   │   │   ├── 📄 CreateTickets.js
+│   │   │   │   ├── 🎨 HeroSection.css
+│   │   │   │   ├── 📄 HeroSection.js
+│   │   │   │   └── 📄 SupportPage.js
+│   │   │   ├── 🎨 Footer.css
+│   │   │   ├── 📄 Footer.js
+│   │   │   ├── 🎨 Navbar.css
+│   │   │   ├── 📄 Navbar.js
+│   │   │   ├── 📄 NotFound.js
+│   │   │   └── 📄 OpenAccount.js
+│   │   ├── 🎨 index.css
+│   │   └── 📄 index.js
+│   ├── 🚫 .gitignore
+│   ├── 📄 package-lock.json
+│   └── 📄 package.json
+├── 🚫 .gitignore
+├── 📄 Dash Board Zerodha.docx
+├── 📄 FrontEnd Zerodha.docx
+└── 📄 backend after dashboard.docx
+
+────────────────────────────────────────────────────────────────────────────────
+Generated by FileTree Pro Extension
